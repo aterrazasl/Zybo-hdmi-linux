@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="Zybo_test_switches_system" platform="/home/aterrazasl/Zybo/Zybo-hdmi-linux/vitis/Zybo_switches/export/Zybo_switches/Zybo_switches.xpfm" platformUID="xilinx:zybo::0.0(custom)" sysConfig="Zybo_switches" runtime="cpp" rootFSLocation="" linuxImage="" sysroot="">
+  <configuration name="Debug" id="com.xilinx.sdx.system.managedbuilder.debugConfiguration.1181897093">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="Zybo_test_switches" domainName="linux_ps7_cortexa9" domainPrettyName="linux_ps7_cortexa9" appBuildConfig="Debug"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+    <lastBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="Zybo_test_switches" domainName="linux_ps7_cortexa9" domainPrettyName="linux_ps7_cortexa9" appBuildConfig="Debug"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </lastBuildOptions>
+  </configuration>
+  <configuration name="Release" id="com.xilinx.sdx.system.managedbuilder.releaseConfiguration.1213133906">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="Zybo_test_switches" domainName="linux_ps7_cortexa9" domainPrettyName="linux_ps7_cortexa9" appBuildConfig="Release"/>
+      <options xsi:type="sdkproject:SdkOptions" generateSdCard="true"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>

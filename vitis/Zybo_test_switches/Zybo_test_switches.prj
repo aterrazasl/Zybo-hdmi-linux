@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="Zybo_test_switches" location="/home/aterrazasl/Zybo/Zybo-hdmi-linux/vitis/Zybo_test_switches" platform="/home/aterrazasl/Zybo/Zybo-hdmi-linux/vitis/Zybo_switches/export/Zybo_switches/Zybo_switches.xpfm" platformUID="xilinx:zybo::0.0(custom)" systemProject="Zybo_test_switches_system" sysConfig="Zybo_switches" runtime="cpp" cpu="linux_ps7_cortexa9" cpuInstance="cortex-a9" os="linux">
+  <configuration name="Debug" id="xilinx.gnu.armv7.linux.exe.debug.2121609651">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.linux.exe.release.369870217" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="linux_hello_world"/>
+</sdkproject:SdkProject>

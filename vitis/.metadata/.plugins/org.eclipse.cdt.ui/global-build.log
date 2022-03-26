@@ -1,0 +1,23 @@
+Nothing to build in platform 'Zybo_switches'
+
+18:49:37 **** Build of configuration Debug for project Zybo_test_switches ****
+make all 
+Building file: ../src/helloworld.c
+Invoking: ARM v7 Linux gcc compiler
+arm-linux-gnueabihf-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+Finished building: ../src/helloworld.c
+ 
+Building target: Zybo_test_switches.elf
+Invoking: ARM v7 Linux gcc linker
+arm-linux-gnueabihf-gcc  -o "Zybo_test_switches.elf"  ./src/helloworld.o   
+Finished building target: Zybo_test_switches.elf
+ 
+Invoking: ARM v7 Linux Print Size
+arm-linux-gnueabihf-size Zybo_test_switches.elf  |tee "Zybo_test_switches.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   1087	    316	      4	   1407	    57f	Zybo_test_switches.elf
+Finished building: Zybo_test_switches.elf.size
+ 
+18:49:38 **** Build of configuration Debug for project Zybo_test_switches_system ****
+make all 
+NOTE: Skipping SDCard Generation, as the platform do not have boot directory and the bif file defined.

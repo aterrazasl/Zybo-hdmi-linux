@@ -1,0 +1,16 @@
+18:45:41 INFO  : Launching XSCT server: xsct -n  -interactive /home/aterrazasl/Zybo/Zybo-hdmi-linux/vitis/temp_xsdb_launch_script.tcl
+18:45:41 INFO  : Platform repository initialization has completed.
+18:45:42 INFO  : Registering command handlers for Vitis TCF services
+18:45:46 INFO  : XSCT server has started successfully.
+18:45:46 INFO  : Successfully done setting XSCT server connection channel  
+18:45:47 INFO  : plnx-install-location is set to ''
+18:45:47 INFO  : Successfully done setting workspace for the tool. 
+18:45:47 INFO  : Successfully done query RDI_DATADIR 
+18:48:40 WARN  : An unexpected exception occurred in the module 'platform project logging'
+18:48:40 WARN  : An unexpected exception occurred in the module 'platform project logging'
+18:48:40 WARN  : An unexpected exception occurred in the module 'platform project logging'
+18:48:40 WARN  : An unexpected exception occurred in the module 'platform project logging'
+18:48:40 INFO  : Platform 'Zybo_switches' is added to custom repositories.
+18:48:45 INFO  : Platform 'Zybo_switches' is added to custom repositories.
+18:49:07 INFO  : Result from executing command 'getProjects': Zybo_switches
+18:49:07 INFO  : Result from executing command 'getPlatforms': Zybo_switches|/home/aterrazasl/Zybo/Zybo-hdmi-linux/vitis/Zybo_switches/export/Zybo_switches/Zybo_switches.xpfm

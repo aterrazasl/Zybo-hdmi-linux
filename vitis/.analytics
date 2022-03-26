@@ -1,0 +1,7 @@
+timestamp=[2022-03-25 18:45:41], mode=WORKBENCH_START, duration=0:00:12.430, duration_ms=12430, data={}
+timestamp=[2022-03-25 18:45:41], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.054, duration_ms=54, data={}
+timestamp=[2022-03-25 18:45:42], mode=WORKBENCH_UI_INIT, duration=0:00:00.906, duration_ms=906, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2022-03-25 18:48:45], mode=APP_CREATION, duration=0:00:21.626, duration_ms=21626, data={name=Zybo_test_switches, project_type=sdk, os=linux, processor=, runtime=cpp, platform=Zybo_switches, application_type=application}
+timestamp=[2022-03-25 18:49:11], mode=PLATFORM_GENERATION, duration=0:00:13.906, duration_ms=13906, data={name=Zybo_switches}
+timestamp=[2022-03-25 18:49:38], mode=BUILD, duration=0:00:00.363, duration_ms=363, data={name=Zybo_test_switches, configuration=Debug, clean_build=false}
+timestamp=[2022-03-25 18:49:38], mode=BUILD, duration=0:00:00.113, duration_ms=113, data={name=Zybo_test_switches_system, configuration=Debug, clean_build=false}
